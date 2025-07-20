@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color: #F5F1C7 ;
+}
+
+a{
+text-decoration: none;
+}
+
+header{
+    background-color: rgb(192, 197, 147);
+    padding: 20px;
+}
+
+header img{
+    width: 84px;
+}
+header a{
+    color: white;
+    font-size: 40px;
+    margin-left: 40px;
+}
+
+main img{
+ width:370px ;
+
+}
+.shop{
+    width: 156px;
+}
+footer{
+    background-color: #FFE658;
+    padding: 20px;
+}
+
+footer a{
+    background-color: white;
+    padding-right: 1000px;
+}
